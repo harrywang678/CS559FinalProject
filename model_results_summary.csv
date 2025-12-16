@@ -1,0 +1,2 @@
+Model,Training_Samples,Validation_Samples,Test_Samples,Parameters,Best_Val_Accuracy,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,AUC,Sensitivity,Specificity,False_Negatives,False_Positives
+CNN (4 Conv Blocks),4493,793,624,"26,994,722",0.9727,0.7660,0.8005,0.7660,0.7286,0.9288,0.9744,0.4188,10,136
