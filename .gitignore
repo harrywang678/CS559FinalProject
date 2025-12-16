@@ -1,0 +1,9 @@
+# Trained ML models (too large for GitHub)
+*.h5
+
+# Optional: datasets / generated outputs
+*.zip
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
+
