@@ -1,8 +1,3 @@
-,Label,Label_1_Virus_category,Label_2_Virus_category,Image_Count
-0,Normal,,,1576
-1,Pnemonia,Stress-Smoking,ARDS,2
-2,Pnemonia,Virus,,1493
-3,Pnemonia,Virus,COVID-19,58
-4,Pnemonia,Virus,SARS,4
-5,Pnemonia,bacteria,,2772
-6,Pnemonia,bacteria,Streptococcus,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:faf7eb6b9604cb5d52d925ee71c894d206ca3a924193cc5420acda8c32c26068
+size 252
